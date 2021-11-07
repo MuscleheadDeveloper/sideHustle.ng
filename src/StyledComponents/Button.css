@@ -1,0 +1,33 @@
+.buttons {
+  height: 35px;
+  width: 400px;
+  margin: 40px auto;
+  padding: 0 5px;
+}
+.button1 {
+  display: flex;
+  width: 400px;
+  transform: translateY(7px);
+  align-items: center;
+  transform: translateX(-18px);
+}
+button {
+  font-size: 16px;
+  display: block;
+  padding: 5px 20px;
+  border-radius: 10px;
+  border: none;
+  margin: 0 auto;
+  cursor: pointer;
+}
+@media (max-width: 440px) {
+  button {
+    font-size: 12px;
+  }
+  .button1 {
+    display: flex;
+    align-items: center;
+    padding: 5px 5px;
+    font-size: 14px;
+  }
+}
