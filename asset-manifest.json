@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/MuscleheadDeveloper/newCapstone.git/static/css/main.dea01287.chunk.css",
+    "main.js": "/MuscleheadDeveloper/newCapstone.git/static/js/main.df9519b2.chunk.js",
+    "main.js.map": "/MuscleheadDeveloper/newCapstone.git/static/js/main.df9519b2.chunk.js.map",
+    "runtime-main.js": "/MuscleheadDeveloper/newCapstone.git/static/js/runtime-main.b56f55a6.js",
+    "runtime-main.js.map": "/MuscleheadDeveloper/newCapstone.git/static/js/runtime-main.b56f55a6.js.map",
+    "static/js/2.b27a8a17.chunk.js": "/MuscleheadDeveloper/newCapstone.git/static/js/2.b27a8a17.chunk.js",
+    "static/js/2.b27a8a17.chunk.js.map": "/MuscleheadDeveloper/newCapstone.git/static/js/2.b27a8a17.chunk.js.map",
+    "index.html": "/MuscleheadDeveloper/newCapstone.git/index.html",
+    "static/css/main.dea01287.chunk.css.map": "/MuscleheadDeveloper/newCapstone.git/static/css/main.dea01287.chunk.css.map",
+    "static/js/2.b27a8a17.chunk.js.LICENSE.txt": "/MuscleheadDeveloper/newCapstone.git/static/js/2.b27a8a17.chunk.js.LICENSE.txt",
+    "static/media/logoDark.cd12c775.png": "/MuscleheadDeveloper/newCapstone.git/static/media/logoDark.cd12c775.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b56f55a6.js",
+    "static/js/2.b27a8a17.chunk.js",
+    "static/css/main.dea01287.chunk.css",
+    "static/js/main.df9519b2.chunk.js"
+  ]
+}
